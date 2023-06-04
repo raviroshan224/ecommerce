@@ -22,13 +22,7 @@
             margin-right: 40px;
             margin: 10px
         }
-        /* #order{
-            margin-top: 15px;
-            margin-bottom: 15px;
-            font-size: 24px;
-
-        } */
-        /* .col-sm-6,  */
+        
     </style>
 </head>
 
